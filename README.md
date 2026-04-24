@@ -6,7 +6,7 @@
 
 <hr/>
 
-<h2>🚀 Overview</h2>
+<h2>Overview</h2>
 
 <p>
 Smart Revision Scheduler is a full-stack web application designed to help students efficiently plan, manage, and track their study schedules.
@@ -26,7 +26,7 @@ Unlike traditional static timetable applications, this system behaves like an <b
 
 <h2>✨ Features</h2>
 
-<h3>🧠 Rule-Based Intelligent Scheduling</h3>
+<h3>Rule-Based Intelligent Scheduling</h3>
 <ul>
   <li>Generates realistic and achievable timetables</li>
   <li>Avoids conflicts with daily routine</li>
@@ -150,7 +150,7 @@ http://localhost:8080
 
 <hr/>
 
-<h2>🎯 Future Enhancements</h2>
+<h2>Future Enhancements</h2>
 
 <ul>
   <li>Smart notifications and reminders</li>
@@ -176,4 +176,4 @@ http://localhost:8080
 </p>
 
 <p align="center">
-  <b>"Plan smart. Study better. Achieve more." 🚀</b>
+  <b>"Plan smart. Study better. Achieve more." </b>
