@@ -116,7 +116,7 @@ Unlike traditional static timetable applications, this system behaves like an <b
 
 <pre>
 git clone https://github.com/ZTSALAHUDDIN/MiniProject
-cd MiniProject
+cd MP
 </pre>
 
 <h3>Install Dependencies</h3>
